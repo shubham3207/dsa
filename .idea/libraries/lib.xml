@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/junit-jupiter-api-5.8.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/kotlin-stdlib-common-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/apiguardian-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/junit-jupiter-5.8.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/kotlin-stdlib-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/junit-jupiter-engine-5.8.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/kotlin-stdlib-jdk7-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/junit-platform-commons-1.8.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/junit-platform-engine-1.8.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/junit-jupiter-params-5.8.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/D S A 1/Week8to11/lib/kotlin-stdlib-jdk8-1.4.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

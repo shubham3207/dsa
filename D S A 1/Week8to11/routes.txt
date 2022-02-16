@@ -1,0 +1,4 @@
+1;kathmandu;this is kathmandu
+2;banepa;this is banepa
+3;pokhara;this is pokhara
+4;kapn;this is kapna
